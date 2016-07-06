@@ -11,6 +11,11 @@ It can also be used to expose individual files and allow you to request them fro
 artificial restrictions, such as a limit of one TCP tunnel per user. It also doesn't allow you to expose files easily
 (you have to set it up yourself).
 
+# Screenshots
+
+![A screenshot of onion-expose exposing the file /usr/share/dict/words.](screenshots/screenshot1.png)
+![A screenshot of onion-expose exposing port 8080.](screenshots/screenshot2.png)
+
 # Getting started
 
 For now, there's no setup.py script (working on it...)
