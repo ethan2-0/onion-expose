@@ -1,0 +1,10 @@
+Flask==0.11.1
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+pycurl==7.43.0
+PyQRCode==1.2.1
+PyYAML==3.11
+requests==2.10.0
+stem==1.4.0
+Werkzeug==0.11.10
